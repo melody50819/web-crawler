@@ -2,7 +2,10 @@
 此專案主在爬取 Potato Media 網路論壇的貼文連結。
 
 ## 目錄
----
+[1. 什麼是 Potato Media？](https://github.com/melody50819/web-crawler/edit/main/README.md#%E4%BB%80%E9%BA%BC%E6%98%AF-potato-media)  
+[2. 概述](https://github.com/melody50819/web-crawler/edit/main/README.md#%E6%A6%82%E8%BF%B0)  
+    [2.1 基本環境](https://github.com/melody50819/web-crawler/edit/main/README.md#%E5%9F%BA%E6%9C%AC%E7%92%B0%E5%A2%83)  
+    [2.2 實作](https://github.com/melody50819/web-crawler/edit/main/README.md#%E5%9F%BA%E6%9C%AC%E7%92%B0%E5%A2%83)  
 
 
 ## 什麼是 Potato Media？
@@ -15,13 +18,11 @@ Potato Media 是全台第一社交挖礦論壇，有別於其他平台，只要�
 - 完成每日任務  
 
 ## 概述
----
-## 基本環境
-本專案使用 Python3，及 Poetry 套件管理環境。  
-相關套件使用請見 `pyproject.toml` 。
-- 溜覽器：使用 `chromedriver`
+### 基本環境
+本專案使用 Python3，及 Poetry 套件管理環境，相關套件使用請見 `pyproject.toml` 。
+- 瀏覽器：使用 `chromedriver`
 
-## 實作
+### 實作
 - 自行輸入
   - `post_cnt`：可設定爬取文章連結數量
   - 計算程式執行秒數
