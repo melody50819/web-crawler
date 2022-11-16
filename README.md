@@ -1,20 +1,13 @@
 # **web-crawler**
 此專案主在爬取 Potato Media 網路論壇的貼文連結。
 
-<<<<<<< HEAD
+
 ## 目錄
 ---
 1. [什麼是 Potato Media？](#什麼是PotatoMedia？)
 2. [概述](#概述)  
     2.1 [基本環境](#基本環境)  
     2.1 [實作](#實作)
-=======
-## 目錄Cancel changes
-[1. 什麼是 Potato Media？](#什麼是PotatoMedia？)  
-[2. 概述](#概述)  
-    [2.1 基本環境](#基本環境)  
-    [2.2 實作](#實作)  
->>>>>>> a0ab13371b9f1e421efab09246335f1b3b01cfcc
 
 
 ## 什麼是 Potato Media？
