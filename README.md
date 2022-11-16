@@ -3,7 +3,6 @@
 
 
 ## 目錄
----
 1. [什麼是 Potato Media？](#什麼是PotatoMedia？)
 2. [概述](#概述)  
     2.1 [基本環境](#基本環境)  
@@ -20,17 +19,14 @@ Potato Media 是全台第一社交挖礦論壇，有別於其他平台，只要�
 - 完成每日任務  
 
 ## 概述
-<<<<<<< HEAD
----
 ### 基本環境
 本專案使用 Python3，及 Poetry 套件管理環境。  
 相關套件使用請見 `pyproject.toml` 。
 - 溜覽器：使用 `chromedriver`
-=======
+
 ### 基本環境
 本專案使用 Python3，及 Poetry 套件管理環境，相關套件使用請見 `pyproject.toml` 。
 - 瀏覽器：使用 `chromedriver`
->>>>>>> a0ab13371b9f1e421efab09246335f1b3b01cfcc
 
 ### 實作
 - 自行輸入
