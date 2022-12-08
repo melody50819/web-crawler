@@ -22,7 +22,7 @@ Potato Media 是全台第一社交挖礦論壇，有別於其他平台，只要�
 ### 基本環境
 本專案使用 Python3，及 Poetry 套件管理環境。  
 相關套件使用請見 `pyproject.toml` 。
-- 溜覽器：使用 `chromedriver`
+- 瀏覽器：使用 `chromedriver`
 
 ### 基本環境
 本專案使用 Python3，及 Poetry 套件管理環境，相關套件使用請見 `pyproject.toml` 。
